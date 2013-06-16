@@ -1,0 +1,3 @@
+3
+
+SELECT docid FROM Frequency where term="transactions" INTERSECT SELECT docid FROM Frequency where term="world"

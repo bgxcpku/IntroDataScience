@@ -1,0 +1,4 @@
+15
+
+
+SELECT * FROM Frequency where term="parliament"
